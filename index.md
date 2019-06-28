@@ -3,7 +3,10 @@
 You can use the [editor on GitHub](https://github.com/brzx/brzx.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 [Heap page](heap.html)
+
+[Stack page](stack.md)
 
 ### Markdown
 
